@@ -1,2 +1,2 @@
 # OIBSIP_Task3
-A TEMPARATURE CONVERTER developed with HTML, CSS, and JS
+Developed TEMPARATURE CONVERTER  with HTML, CSS, and JS
